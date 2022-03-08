@@ -1,1 +1,1 @@
-# Conflict-Resolution test 2
+# Conflict-Resolution test 1
